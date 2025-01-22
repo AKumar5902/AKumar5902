@@ -17,7 +17,7 @@ Below are some of the repositories for my school and personal projects:
   - **React**
   - **Java** for all endpoints
 
-You can check out my ![<LinkedIn>](https://img.shields.io/badge/<Badge LinkedIn>-<Background blue>?style=for-the-badge&logo=<Icon LinkedIN>&logoColor=<Logo White>)(https://www.linkedin.com/in/anuj-kumar-2930a3176/)
+You can check out my ![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.linkedin.com/in/anuj-kumar-2930a3176/)
 
 
 <!--
