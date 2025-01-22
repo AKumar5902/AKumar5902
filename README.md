@@ -4,12 +4,12 @@ Hello, my name is **Anuj Kumar** and I am currently a student at **SF State Univ
 
 Below are some of the repositories for my school and personal projects:
 
-- **CSC415**: In this repository, I collaborated with my classmates to create our own filesystem. It allows a user to:
+- **CSC415**: I collaborated with my classmates to create our own filesystem in this repository as well as all assigned homework. It allows a user to:
   - Create and delete directories and files
   - Use basic terminal commands such as `ls`, `ls -l`, `cwd`, `cd`, etc.
 
-- **CSC413**: This repository contains my classwork, as well as a project where I worked with my classmates to create a **Banking App**. The app allows users to:
-  - Create an account
+- **CSC413**: This repository contains my classwork and a project where I worked with my classmates to create a **Banking App**. The app allows users to:
+  - Create and login an account with password hashing for security. 
   - Withdraw, deposit, and transfer money
 
   This project uses:
@@ -17,7 +17,7 @@ Below are some of the repositories for my school and personal projects:
   - **React**
   - **Java** for all endpoints
 
-You can check out my [LinkedIn profile here](https://www.linkedin.com/in/anuj-kumar-2930a3176/)
+You can check out my ![<LinkedIn>](https://img.shields.io/badge/<Badge LinkedIn>-<Background blue>?style=for-the-badge&logo=<Icon LinkedIN>&logoColor=<Logo White>)(https://www.linkedin.com/in/anuj-kumar-2930a3176/)
 
 
 <!--
