@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello, my name is **Anuj Kumar** and I am currently a student at **SF State University** completing a bachelor's degree in **Computer Science**. I am looking for an **entry-level job** or an **internship** as a **Software Engineer**.
+
 
 <!--
 **AKumar5902/AKumar5902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
