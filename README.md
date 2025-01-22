@@ -17,7 +17,7 @@ Below are some of the repositories for my school and personal projects:
   - **React**
   - **Java** for all endpoints
 
-You can check out my [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/anuj-kumar-2930a3176/)
+You can check out my [LinkedIn profile here](https://www.linkedin.com/in/anuj-kumar-2930a3176/).
 
 
 <!--
