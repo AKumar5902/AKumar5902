@@ -17,7 +17,7 @@ Below are some of the repositories for my school and personal projects:
   - **React**
   - **Java** for all endpoints
  
-  - **PointPredictor** This app uses Weka a machine learning algorithm to predict how many points an NBA Player would score based on their previous games.
+- **PointPredictor** This app uses Weka a machine learning algorithm to predict how many points an NBA Player would score based on their previous games.
     This project uses:
   - **CSV Parsing**
   - **Machine Learning**
